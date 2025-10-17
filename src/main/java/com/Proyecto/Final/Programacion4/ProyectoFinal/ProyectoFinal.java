@@ -1,13 +1,13 @@
-package com.Proyecto.Final.Programacion4.FabricioArmagno;
+package com.Proyecto.Final.Programacion4.ProyectoFinal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FabricioArmagnoApplication {
+public class ProyectoFinal {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FabricioArmagnoApplication.class, args);
+		SpringApplication.run(ProyectoFinal.class, args);
 	}
 
 }

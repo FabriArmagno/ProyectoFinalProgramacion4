@@ -1,4 +1,4 @@
-package com.Proyecto.Final.Programacion4.FabricioArmagno;
+package com.Proyecto.Final.Programacion4.ProyectoFinal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
